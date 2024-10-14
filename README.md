@@ -8,4 +8,6 @@
 
 ...but all these constraints, challenges, and extraordinary difficulties anyway will have only one result! 
 
-Check it here just copy text from "ukraine.mal" and  past it on www.malbolge.doleczek.pl
+Check it here just copy text from "ukraine.mal" and past it on:
+- https://zb3.me/malbolge-tools
+- www.malbolge.doleczek.pl
